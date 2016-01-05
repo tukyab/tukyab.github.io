@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tukyab.github.io
+title: tukyab
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
