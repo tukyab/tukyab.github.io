@@ -3,6 +3,6 @@ published: true
 title: hmmm
 layout: post
 ---
-<img src="https://s-media-cache-ak0.pinimg.com/736x/de/34/ce/de34ce17d5a2efce5c23766a7f6d1d1a.jpg">
+<div style="height:50%"><img src="https://s-media-cache-ak0.pinimg.com/736x/de/34/ce/de34ce17d5a2efce5c23766a7f6d1d1a.jpg"></div>
 
 what
